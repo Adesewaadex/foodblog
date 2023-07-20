@@ -1,0 +1,540 @@
+body{
+    background: gray;
+}
+
+.icon{
+background: black;
+display: block;
+float: left;
+width: 100%;
+}
+.header1{
+    padding: 40px;
+    background: white;
+    text-align: center;
+    
+}
+a,i{
+    background: white;
+    color: black;
+}
+a,i:hover{
+    background: black;
+    color: white;
+}
+
+.blog1{
+    background:rgba(0,0,0,0.7);
+    width: 97.5vw;
+    height: 97vh;
+    top: -633px;
+    position:relative;
+    }
+    
+.small{
+    position: absolute;
+    color: white;
+    margin-left: 5%;
+    padding: 30px;
+    margin-top: 70px;
+    font-size: 50px;
+    font-family: oswald;
+}
+.jumbo{
+    position:absolute;
+    color: white;
+    margin-left: 60px;
+    padding: 30px;
+    font-size: 50px;
+    margin-top: 120px;
+    font-family: oswald;
+}  
+.subscribe{
+    position: absolute;
+    width: 120px;
+    padding: 8px;
+    margin-left: 90PX;
+    margin-top: 10px;
+    background-color: rgba(252,249,249,0.4);
+    font-family: oswald;
+    outline: none;
+    border: none;
+    margin-top: 220px;
+
+}
+.subscribe:hover{
+    background: rgba(235,232,232,0.7);
+  }
+
+.world{
+    background: black;
+    color: white;
+}  
+h1,h2,h3,h4,h5,h6{font-family:oswald;}
+
+.blog2{
+    background:white;
+    padding: 200px;
+    position: relative;
+    left: 2px;
+    width: 63px;
+    bottom: 630px;
+    height: 300px;
+    padding-right: 300px;
+
+}
+.center{
+    padding: 100px;
+    position: absolute;
+    right: 200px;
+    bottom: 500px;
+    font-family: oswald;
+   
+}
+.title{
+    position: absolute;
+    font-family: oswald;
+    left: 40px;
+    bottom: 140px;
+}
+.title-description {
+    position: absolute;
+    bottom: 60px;
+    left: 25px;
+    font-family: oswald;
+}
+.img2{
+    position: absolute;
+    bottom: 100px;
+    left: 15px;    
+}
+p{
+    position: absolute;
+    top: 590px;
+    left: 10px;   
+}
+.read {
+    color: blue;
+    background: white;
+}
+i{
+    background-color: white;
+    color: black;
+   
+}
+.blog3{
+    position: relative;
+    background-color: white;
+    padding: 150px;
+    width: 142px;
+    left: 5px;
+    margin-top: -480px;
+    height: 500px;
+    padding-right: 270px;
+}
+.center2{
+    position: absolute;
+    background-color: white;
+    top: 1px;
+    padding: 80px;
+    left: 135px;
+    font-family: oswald;
+}
+.blog4{
+    position: relative;
+    background-color: white;
+    padding: 150px;
+    height: 450px;
+    width: 115px;
+    left: -150px;
+    padding-right: 298px;
+    margin-top: 820px;
+}
+.like{
+    position: absolute;
+    top: 675px;
+    left: 2px;
+    font-family: oswald;
+}
+.Replies{
+    position: absolute;
+    top: 675px;
+    left: 450px;
+    font-family: oswald;
+    background: black;
+    color: white;
+}
+.reply{
+    position: absolute;
+    top: 700px;
+    width: 443px;
+    padding: 60px;
+    left: 1px;
+    height: 20px;
+    background: white; 
+    
+}
+.sharwama{
+    padding: 10px;
+    position: absolute;
+    width: 520px;
+    left: 10px;
+    top: 120px;
+    height: 470px;
+}
+.reply1{
+    padding: 60px;
+    position: absolute;
+    background: white;
+    height: 30px;
+    left: 1px;
+    top: 800px;
+    width: 442px;
+    
+}
+.like1{
+    position: absolute;
+    top: 750px;
+    left: 10px;
+    font-family: oswald;
+    
+}
+.Replies1{
+    position: absolute;
+    top: 750px;
+    left: 450px;
+    font-family: oswald;
+    background: black;
+    color: white;
+}
+.center3{
+    position: absolute;
+    padding: 100px;
+    top: 5px;
+    font-family: oswald;
+}
+.ice-cream{
+    position: absolute;
+    width: 500px;
+    padding: 100px;
+    height: 400px;
+    left: -40px;
+    top: 50px;
+}
+.like2{
+    position: absolute;
+    top: 720px;
+    left: 10px;  
+    font-family: oswald;  
+   
+}
+.Replies2{
+    position: absolute;
+    top: 720px;
+    left: 450px;
+    font-family: oswald;
+    background: black;
+    color: white;
+}
+.reply2{
+    padding: 60px;
+    position: relative;
+    background: white;
+    height: 30px;
+    left: -150px;
+    top: 600px;
+    width: 442px;
+      
+}
+.About{
+    left: 550px;
+    position: relative;
+    font-family: oswald;
+    background: white;
+    width: 360px;
+    height: 500px;
+    padding: 100px;
+    bottom: 2582px;
+    font-family: oswald;
+}
+.Images{
+    border-bottom: 2px;
+    position: absolute;
+    box-sizing: 2px;
+    top: 100px;
+}
+.popular{
+    left: 550px;
+    position: relative;
+    background: white;
+    padding: 100px;
+    width: 360px;
+    height: 600px;
+    bottom: 2560px;
+    box-shadow: 0px 4px 8px black;    
+    font-family: oswald;   
+}
+.post{
+    position: absolute;
+    left: 150px;
+    top: 10px;
+}
+.advertisement{
+    position: relative;
+    left: 500px;
+    background: white;
+    padding: 100px;
+    width: 360px;
+    height: 400px;
+    bottom: 2540px;
+    font-family: oswald;
+    padding-right: 150px;
+}
+.subscription{
+    position: relative;
+    padding: 100px;
+    left: 550px;
+    width: 360px;
+    height: 100px;
+    bottom: 2520px;
+    background: whitesmoke;
+    font-family: oswald;
+    
+}
+.avatar{
+    position: absolute;
+    top: 40px;
+}
+.comment2{
+    position: absolute;
+    top: -10px;
+    background: white;
+    left: -160px;
+    font-family: oswald;
+}
+.comment{
+    position: absolute;
+    top: 50px;
+    background: white;
+    left: -65px;
+    font-family: oswald;
+}
+.comment1{
+    position: absolute;
+    top: 50px;
+    background: white;
+    left: -65px;
+    font-family: oswald;
+}
+.my-story{
+    position: absolute;
+    top: 500px;
+    font-family: oswald;
+}
+.form1{
+    box-shadow: 0px 4px 8px black;
+   
+}
+.name{
+    position: absolute;
+    top: 70px;
+    left: 300px;
+    width: 200px;
+    font-family: oswald;
+}
+.name2{
+    position: absolute;
+    top: -35px;
+    left: -160px;
+    font-family: oswald;
+}
+.date2{
+    position: absolute;
+    left: -120px;
+    top: -10px;
+    font-family: oswald;
+    font-size: small;
+}
+.line{
+    position: absolute;
+    margin-top: -50px;
+    width: 450px;   
+}
+.avatar2{
+    position: absolute;
+    top: 35px;
+}
+.line1{
+    position: absolute;
+    margin-top: -50px;
+    width: 450px;   
+}
+.line2{
+    position: absolute;
+    margin-top: -50px;
+    width: 450px;   
+}
+.name1{
+    position: absolute;
+    top: 20px;
+    left: -65px;
+    font-family: oswald;
+
+}
+.date1{
+    position: absolute;
+    left: -23px;
+    top: 43px;
+    font-family: oswald;
+    font-size: small;
+}
+.commentsection{
+    position: absolute;
+    top: 5px;
+    left: 200px;
+    width: 200px;
+}
+.avatar1{
+    position: absolute;
+    top: 30px
+}
+.commentsection1{
+    position: absolute;
+    top: 5px;
+    left: 200px;
+    width: 200px;
+}
+.name3{
+    position: absolute;
+    top: 20px;
+    left: -65px;
+    font-family: oswald;
+}
+.date3{
+    position: absolute;
+    left: -15px;
+    top: 43px;
+    font-family: oswald;
+    font-size: small;
+}
+.title1{
+    position: absolute;
+    font-family: oswald;
+    left: 80px;
+    bottom: 80px;
+}
+.title-description1{
+    position: absolute;
+    bottom: 40px;
+    left: 2px;
+    font-family: oswald;
+    width: 1050px;
+}
+.title2{
+    position: absolute;
+    font-family: oswald;
+    left: 50px;
+    bottom: 140px;
+    width: 250px;
+}
+.title-description2{
+    position: absolute;
+    bottom: 60px;
+    left: 25px;
+    font-family: oswald;
+    background: white;
+}
+.me{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-family: oswald;
+}
+.sewa{
+    position: absolute;
+    left: 30px;
+    font-family: oswald;
+}
+.adex{
+    position: absolute;
+    top: 470px;
+    font-family: oswald;
+}
+.read1{
+    color: blue;
+    background: white;
+}
+.read2{
+    color: blue;
+    background: white;
+}
+#pancake{
+    top: 10px;
+    position: absolute;
+    left: 100px;
+    font-family: oswald;
+}
+#sharwama{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    font-family: oswald;
+}
+#ice-cream{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    font-family: oswald;
+}
+#pizza{
+    position: absolute;
+    left: 100px;
+    top: 290px;
+    font-family: oswald;
+}
+.num{
+    color: black;
+    background: white;
+    padding: 10px;
+    height: 2px;
+}
+.num1{
+    color: black;
+    background: white;
+    padding: 10px;
+    height: 2px;
+}
+.num2{
+    color: black;
+    background: white;
+    padding: 10px;
+    height: 2px;
+}
+.bullet{
+    list-style-type: none;
+    left: -20px;
+    position: absolute;
+}
+hr{
+    width: 105%;
+}
+#modal{ z-index: 9000;
+    position: relative;
+    background: rgba(0,0,0,0.9);
+    width: 98vw;
+    height: 100vh;
+    top: -1270px;  
+    display: none; 
+
+}
+.modalbody{ background-color: aqua;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    padding: 100px;
+    box-shadow: 0px 4px 8px black;
+    top: 150px;
+    left: 500px;
+    font-size: 12px;
+    border-radius: 17px;
+}
